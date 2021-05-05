@@ -20,8 +20,7 @@ li {
   background-color: cornflowerblue;
   flex: 1;
   text-align: center;
-  padding-top: 9px;
-  padding-bottom: 9px;
+  line-height: 50px;
 }
 
 a {
